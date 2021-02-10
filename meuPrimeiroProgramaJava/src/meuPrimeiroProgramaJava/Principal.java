@@ -29,6 +29,8 @@ public class Principal {
 		// Saudação específica para o nome lido.
 		System.out.printf("Olá %s!", nome);
 		in.close();
+		
+		// NOTA: implementar leitura da idade e exibi-la.
 	}
 
 }
